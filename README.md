@@ -1,0 +1,2 @@
+# amazoneclone
+by wasim akhtar
